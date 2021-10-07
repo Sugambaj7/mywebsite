@@ -1,0 +1,42 @@
+*{
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+body{
+    background-color: rgba(133, 7, 133, 0.582);
+}
+.mainform{
+    height: 200px;
+    width: 350px;
+    background-color: rgba(231, 55, 193, 0.432);
+    margin: 190px 0px 0px 500px;
+}
+#first-label{
+    padding-top: 40px;
+}
+#btn-id{
+    padding-top:15px;
+    padding-left: 50px;
+}
+.label{
+    padding-top: 5px;
+    padding-left: 50px;
+}
+.box{
+    font-size: 15px;
+}
+.requirement{
+    font-size: 20px;
+    color: white;
+}
+#first-btn{
+    font-size: 15px;
+    padding:0px 15px 0px 15px;
+    margin-right: 14px;
+    margin-top: 0px;
+}
+#second-btn{
+    font-size: 15px;
+    padding:0px 15px 0px 15px;
+}
