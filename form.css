@@ -1,0 +1,99 @@
+*{
+    margin: 0rem 0rem 0rem 0rem;
+    padding: 0rem 0rem 0rem 0rem;
+}
+body{
+    background-color: rgba(133, 7, 133, 0.582);
+    overflow-x: hidden;
+}
+html{
+    font-size: 100%;
+}
+.mainform{
+    height: 12.5rem;
+    width: 21.88rem;
+    background-color: rgba(231, 55, 193, 0.432);
+    margin: 11.88rem 0rem 0rem 31.25rem;
+}
+#first-label{
+    padding-top: 2.5rem;
+}
+#btn-id{
+    padding-top:0.94rem;
+    padding-left: 3.13rem;
+}
+.label{
+    padding-top: 0.31rem;
+    padding-left: 3.13rem;
+}
+.box{
+    font-size: 0.94rem;
+}
+.requirement{
+    font-size: 1.25rem;
+    color: white;
+}
+#first-btn{
+    font-size: 0.94rem;
+    padding:0rem 0.94rem 0rem 0.94rem;
+    margin-right: 0.88rem;
+    margin-top: 0rem;
+}
+#second-btn{
+    font-size: 0.94rem;
+    padding:0rem 0.94rem 0rem 0.94rem;
+}
+@media(max-width:1280px){
+    html{
+        margin-top: 0.5rem;
+    }
+}
+@media screen and (max-width:1280px) and (min-width:768px){
+    html{
+        font-size: 90%;
+
+    }
+    .mainform{
+        margin-left: 32rem;
+    }
+}
+@media screen and (max-width:360px) and (min-width:200px){
+    html{
+        font-size: 65%;
+        margin-top: 1rem;
+    }
+    .mainform{
+        margin-left: 6.5rem;
+    }
+}
+@media screen and (max-width:450px) and (min-width:411px){
+    html{
+        font-size: 80%;
+        margin-top: 1rem;
+    }
+    .mainform{
+        margin-left: 5.5rem;
+    }
+}
+@media screen and (max-width:320px) and (min-width:200px){
+    html{
+        font-size: 70%;
+        margin-top: 1rem;
+    }
+    .mainform{
+        margin-left: 3.5rem;
+    }
+}
+@media screen and (max-width:414px) and (min-width:375px){
+    html{
+        font-size: 70%;
+        margin-top: 1rem;
+    }
+    .mainform{
+        margin-left: 6rem;
+    }
+}
+
+
+
+
